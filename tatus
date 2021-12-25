@@ -1,0 +1,30 @@
+[33mcommit 2a281c438419caaf442afddaa225e32917ae1b83[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: hitopa <hitopa@gmail.com>
+Date:   Fri Dec 24 06:08:06 2021 +0000
+
+    1st commit
+    :wq!
+
+[33mcommit c96770b9b2e90e6b58ee9459a3d056f87da6be7c[m
+Author: hitopa <hitopa@gmail.com>
+Date:   Fri Dec 24 00:06:29 2021 +0000
+
+    new file with changes in user name
+
+[33mcommit 6603209003a50d9efcd87453fcafcbf58a042c16[m
+Author: root <root@ip-172-31-24-205.us-east-2.compute.internal>
+Date:   Thu Dec 23 23:59:24 2021 +0000
+
+    this is modification to index2.html file
+
+[33mcommit 4466e2e7294938a214a611d2d3b65c28357f710b[m
+Author: root <root@ip-172-31-24-205.us-east-2.compute.internal>
+Date:   Thu Dec 23 23:38:35 2021 +0000
+
+    commit 2nd file to local directory
+
+[33mcommit 51a972e494a567d42cf58647608a8464f8fea106[m
+Author: root <root@ip-172-31-24-205.us-east-2.compute.internal>
+Date:   Thu Dec 23 23:36:32 2021 +0000
+
+    first file commited from staging area
